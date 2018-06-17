@@ -1,0 +1,2 @@
+set CLASSHPATH=C:\Arquivos\Faculdade\UFJF\9periodo\Compiladores\T2\AnaliseSintatica\depedencias\antlr-4.7.1-complete.jar
+java -cp C:\Arquivos\Faculdade\UFJF\9periodo\Compiladores\T2\AnaliseSintatica\depedencias\antlr-4.7.1-complete.jar;%CLASSPATH% org.antlr.v4.Tool %*

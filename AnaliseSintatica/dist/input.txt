@@ -1,0 +1,30 @@
+Int somaDois (Int v1, Int v2){
+    retorne v1 + v2;
+}
+
+Int fatorial(Int x){
+    se (x<1){
+        retorne 0;
+    }
+    se (x==1){
+        retorne 1;
+    }
+    x = x-1;
+    retorne fatorial ( x );
+}
+
+Int fib(Int n){
+	se (n < 2){
+		retorne n;
+	}
+	instancie n1 n-1;
+	instancie n2 n-2;
+	retorne fib(n1) + fib(n2);
+}
+
+programa Programa1 {
+ 	instancie x '\127';
+ 	instancie y 'x';
+ 	instancie z '1';
+    retorne V;
+}
