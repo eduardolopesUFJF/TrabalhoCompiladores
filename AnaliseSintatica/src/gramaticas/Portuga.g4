@@ -19,7 +19,7 @@ body:
 block:
     '{' commandList '}';
 varsSection:
-    'vars :' varDecList ';';
+    'vars' ':' varDecList ';';
 varDecList:
     varDecList ',' varDec |
     varDec;

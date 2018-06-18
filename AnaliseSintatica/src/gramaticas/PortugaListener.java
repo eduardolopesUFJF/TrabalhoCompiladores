@@ -1,4 +1,4 @@
-// Generated from Portuga.g4 by ANTLR 4.7.1
+// Generated from C:/temp/TrabalhoCompiladores/AnaliseSintatica/src/gramaticas\Portuga.g4 by ANTLR 4.7
 package gramaticas;
 import org.antlr.v4.runtime.tree.ParseTreeListener;
 
